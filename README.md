@@ -7,3 +7,7 @@ To use the Xylophone App, follow these step:
 2. Run flutter pub get in other to install the required dependencies.
 3. Run the app on your device or your virtual simulator.
 
+# Contact
+If you have any feedback, questions or constructive criticism, feel free to reach out to me at olaitandamilare230@gmail.com
+
+
